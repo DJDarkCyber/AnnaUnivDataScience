@@ -7,7 +7,7 @@ Sign in your google account,
 
 download these files and upload it in your drive https://drive.google.com/
 
-and open the file (just double click the .iynb file)
+and open the file (just double click the .ipynb file)
 
 and now just press `shift + Enter` until it reaches the last line.
 
