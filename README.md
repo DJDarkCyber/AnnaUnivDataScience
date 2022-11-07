@@ -5,7 +5,7 @@ If you kinda feeling dumb in semester exam,
 
 Sign in your google account,
 
-download these files and upload it in your drive drive.google.com/
+download these files and upload it in your drive https://drive.google.com/
 
 and open the file
 
