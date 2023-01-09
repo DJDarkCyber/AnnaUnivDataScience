@@ -6,6 +6,8 @@ Drive Link >> https://drive.google.com/drive/folders/1sEED5bmROW7ZypweUtY2309_DN
 
 ### Colab Links
 
+** Procedure : Nothing. Yeah! Just Nothing. Just Click the link of what project they gave and Show your computer.**
+
 1. Download, install and explore the features of NumPy, SciPy, Jupyter,
 Statsmodels and Pandas packages
 
